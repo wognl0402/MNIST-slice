@@ -1,0 +1,6 @@
+./MNIST/MNIST_data/
+./MNIST/testSet/
+./MNIST/trainingSet/
+./diet_MNIST/MNIST_data/
+./diet_MNIST/testSet/
+./diet_MNIST/trainingSet/
